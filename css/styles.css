@@ -1,0 +1,41 @@
+body {
+    font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+    width: 70%;
+}
+
+p {
+    font-size: 15px;
+}
+
+.top-part {
+    margin-top: 7%;
+    
+}
+
+.bottom-part {
+    margin-top: 10%;
+    
+}
+
+.text-part {
+    width: 45%;
+}
+
+.rating-part {
+    width: 35%;
+    margin-left: 15%;
+}
+
+.star-icon {
+    background-color: hsl(300, 24%, 96%);
+    padding: 2% 5%;
+    border-radius: 5%;
+    
+}
+
+.star-image {
+    padding: 0 5px;
+}
